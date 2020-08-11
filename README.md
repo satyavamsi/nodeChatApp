@@ -6,7 +6,9 @@ People can create room or join existing room and chat in real time
 
 They can send their location to the people in the room
 
-Only people in the same room as the user can see the messages and location.
+Only people in the same room can see the messages and location.
+
+No database is used here, so once the page is refreshed all the messages will be deleted.
 
 
 # deployment Process
